@@ -1,7 +1,7 @@
-project_name
+New York City Taxi - Yellow Taxis Trip
 ==============================
 
-prediction
+predict the fare amount that passenger will pay
 
 Project Organization
 ------------
